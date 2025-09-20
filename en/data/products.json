@@ -1,1 +1,235 @@
-[]
+[
+  {
+    "id": "arc-teryx",
+    "title": "Arc'teryx",
+    "price": 299,
+    "currency": "EUR",
+    "size": "140×200",
+    "shape": "rectangle",
+    "materials": [
+      "wool",
+      "acrylic"
+    ],
+    "colors": [],
+    "tags": [],
+    "collection": "Core",
+    "availability": "made_to_order",
+    "images": [
+      "assets/products/arc-teryx/arc-teryx-1.jpg",
+      "assets/products/arc-teryx/arc-teryx-2.jpg",
+      "assets/products/arc-teryx/arc-teryx-3.jpg",
+      "assets/products/arc-teryx/arc-teryx-4.jpg",
+      "assets/products/arc-teryx/arc-teryx-5.jpg",
+      "assets/products/arc-teryx/arc-teryx-6.jpg",
+      "assets/products/arc-teryx/arc-teryx-7.jpg",
+      "assets/products/arc-teryx/arc-teryx-8.jpg",
+      "assets/products/arc-teryx/arc-teryx-9.jpg"
+    ],
+    "featured": true
+  },
+  {
+    "id": "blackhole",
+    "title": "BlackHole",
+    "price": 299,
+    "currency": "EUR",
+    "size": "140×200",
+    "shape": "rectangle",
+    "materials": [
+      "wool",
+      "acrylic"
+    ],
+    "colors": [],
+    "tags": [],
+    "collection": "Core",
+    "availability": "made_to_order",
+    "images": [
+      "assets/products/blackhole/blackhole-1.jpg",
+      "assets/products/blackhole/blackhole-2.jpg",
+      "assets/products/blackhole/blackhole-3.jpg"
+    ],
+    "featured": true
+  },
+  {
+    "id": "homer-simpson",
+    "title": "Homer Simpson",
+    "price": 299,
+    "currency": "EUR",
+    "size": "140×200",
+    "shape": "rectangle",
+    "materials": [
+      "wool",
+      "acrylic"
+    ],
+    "colors": [],
+    "tags": [],
+    "collection": "Core",
+    "availability": "made_to_order",
+    "images": [
+      "assets/products/homer-simpson/homer-simpson-1.jpg",
+      "assets/products/homer-simpson/homer-simpson-2.jpg",
+      "assets/products/homer-simpson/homer-simpson-3.jpg",
+      "assets/products/homer-simpson/homer-simpson-4.jpg",
+      "assets/products/homer-simpson/homer-simpson-5.jpg"
+    ],
+    "featured": true
+  },
+  {
+    "id": "homer-simpson-2",
+    "title": "Homer Simpson 2",
+    "price": 299,
+    "currency": "EUR",
+    "size": "140×200",
+    "shape": "rectangle",
+    "materials": [
+      "wool",
+      "acrylic"
+    ],
+    "colors": [],
+    "tags": [],
+    "collection": "Core",
+    "availability": "made_to_order",
+    "images": [
+      "assets/products/homer-simpson-2/homer-simpson-2-1.jpg",
+      "assets/products/homer-simpson-2/homer-simpson-2-2.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "homer-simpson-smal",
+    "title": "Homer Simpson Smal",
+    "price": 299,
+    "currency": "EUR",
+    "size": "140×200",
+    "shape": "rectangle",
+    "materials": [
+      "wool",
+      "acrylic"
+    ],
+    "colors": [],
+    "tags": [],
+    "collection": "Core",
+    "availability": "made_to_order",
+    "images": [
+      "assets/products/homer-simpson-smal/homer-simpson-smal-1.jpg",
+      "assets/products/homer-simpson-smal/homer-simpson-smal-2.jpg",
+      "assets/products/homer-simpson-smal/homer-simpson-smal-3.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "leafy",
+    "title": "Leafy",
+    "price": 299,
+    "currency": "EUR",
+    "size": "140×200",
+    "shape": "rectangle",
+    "materials": [
+      "wool",
+      "acrylic"
+    ],
+    "colors": [],
+    "tags": [],
+    "collection": "Core",
+    "availability": "made_to_order",
+    "images": [
+      "assets/products/leafy/leafy-1.jpg",
+      "assets/products/leafy/leafy-2.jpg",
+      "assets/products/leafy/leafy-3.jpg",
+      "assets/products/leafy/leafy-4.jpg",
+      "assets/products/leafy/leafy-5.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "martial-artists",
+    "title": "Martial Artists",
+    "price": 299,
+    "currency": "EUR",
+    "size": "140×200",
+    "shape": "rectangle",
+    "materials": [
+      "wool",
+      "acrylic"
+    ],
+    "colors": [],
+    "tags": [],
+    "collection": "Core",
+    "availability": "made_to_order",
+    "images": [
+      "assets/products/martial-artists/martial-artists-1.jpg",
+      "assets/products/martial-artists/martial-artists-2.jpg",
+      "assets/products/martial-artists/martial-artists-3.jpg",
+      "assets/products/martial-artists/martial-artists-4.jpg",
+      "assets/products/martial-artists/martial-artists-5.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "plankton",
+    "title": "Plankton",
+    "price": 299,
+    "currency": "EUR",
+    "size": "140×200",
+    "shape": "rectangle",
+    "materials": [
+      "wool",
+      "acrylic"
+    ],
+    "colors": [],
+    "tags": [],
+    "collection": "Core",
+    "availability": "made_to_order",
+    "images": [
+      "assets/products/plankton/plankton-1.jpg",
+      "assets/products/plankton/plankton-2.jpg",
+      "assets/products/plankton/plankton-3.jpg",
+      "assets/products/plankton/plankton-4.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "towelie",
+    "title": "Towelie",
+    "price": 299,
+    "currency": "EUR",
+    "size": "140×200",
+    "shape": "rectangle",
+    "materials": [
+      "wool",
+      "acrylic"
+    ],
+    "colors": [],
+    "tags": [],
+    "collection": "Core",
+    "availability": "made_to_order",
+    "images": [
+      "assets/products/towelie/towelie-1.jpg",
+      "assets/products/towelie/towelie-2.jpg",
+      "assets/products/towelie/towelie-3.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "æhick",
+    "title": "æhick",
+    "price": 299,
+    "currency": "EUR",
+    "size": "140×200",
+    "shape": "rectangle",
+    "materials": [
+      "wool",
+      "acrylic"
+    ],
+    "colors": [],
+    "tags": [],
+    "collection": "Core",
+    "availability": "made_to_order",
+    "images": [
+      "assets/products/æhick/æhick-1.jpg",
+      "assets/products/æhick/æhick-2.jpg",
+      "assets/products/æhick/æhick-3.jpg",
+      "assets/products/æhick/æhick-4.jpg"
+    ],
+    "featured": false
+  }
+]

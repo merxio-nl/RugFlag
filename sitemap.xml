@@ -2,6 +2,6 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
  <url><loc>https://your-domain.tld/en/</loc></url>
  <url><loc>https://your-domain.tld/en/catalog.html</loc></url>
+ <url><loc>https://your-domain.tld/en/commissions.html</loc></url>
  <url><loc>https://your-domain.tld/nl/</loc></url>
- <url><loc>https://your-domain.tld/nl/catalog.html</loc></url>
 </urlset>

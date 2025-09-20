@@ -1,39 +1,12 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Catalog — RUGFLAG</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Ready-made rugs and examples. Custom available.">
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-<header class="header">
-  <div class="container nav">
-    <div class="logo">RUGFLAG</div>
-    <nav class="menu">
-      <a href="index.html">Home</a>
-      <a href="catalog.html">Catalog</a>
-      <a class="cta primary" data-telegram href="#" target="_blank" rel="noopener">Write in Telegram</a>
-    </nav>
-  </div>
-</header>
-
-<main class="section">
-  <div class="container">
-    <h1 style="margin:0 0 8px">Catalog</h1>
-    <p class="lead">Data is loaded from <code>data/products.json</code>. Photos go to <code>assets/products/</code>.</p>
-    <div id="catalog-grid" class="grid"></div>
-  </div>
-</main>
-
-<footer class="footer">
-  <div class="container">
-    © <span id="y"></span> RUGFLAG — Amsterdam · NL
-  </div>
-</footer>
-<script src="js/lightbox.js"></script>
-<script src="js/render.js"></script>
-<script>document.getElementById('y').textContent=new Date().getFullYear()</script>
-</body>
-</html>
+<!doctype html><html lang='en'><head><meta charset='utf-8'><title>Catalog</title><meta name='viewport' content='width=device-width, initial-scale=1'><link rel='stylesheet' href='style.css'></head><body>
+<header class="header"><div class="container nav">
+  <a class="brand" href="index.html"><img src="images/logo.png" alt="RUGFLAG logo"></a>
+  <nav class="menu">
+    <a href="index.html">Home</a>
+    <a href="catalog.html">Catalog</a>
+    <a href="commissions.html">Commissions</a>
+    <a href="about.html">About</a>
+    <span class="lang"><a href="../nl/" class="active">NL</a></span>
+    <a class="cta primary" data-telegram href="#" target="_blank" rel="noopener">Write in Telegram</a>
+  </nav>
+</div></header><main class='section'><div class='container'><h1 style='margin:0 0 8px'>Catalog</h1><p class='lead'>Data is loaded from data/products.json. Photos go to assets/products/.</p><div id='catalog-grid' class='grid'></div></div></main><footer class='footer'><div class='container'>© 2025 RUGFLAG — Amsterdam · NL</div></footer><script src='js/lightbox.js'></script><script src='js/render.js'></script></body></html>
